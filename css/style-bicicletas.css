@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+body{
+    background: #778899;
+    color:  #ffffff ;
+}
+
+.biscicletas{
+    width: 100%;
+}
+
+.biscicletas h1{
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+    font-family: 'Roboto', sans-serif;
+    margin-top: 10px;
+}
+
+.biscicletas h2{
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: 'Roboto', sans-serif;
+    margin: 10px 0 10px 0;
+}
+
+.biscicletas div{
+    display: flex;
+    width: 1080px;
+    margin: 0 auto;
+    padding: 10px;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.biscicletas div ul{
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.biscicletas div ul li img{
+    width: 400px;
+}
+
+.biscicletas div ul li p{
+    padding: 10px;
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+    text-align: justify;
+    text-justify: inter-word;
+}

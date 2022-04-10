@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+.depoimento{
+    width: 100%;
+    text-align: center;
+}
+
+.depoimento img{
+    width: 500px;
+    margin: 20px 0 0 0;
+}
+
+.texto-depoimento{
+    width: 940px;
+    margin: 0 auto;
+}
+
+.texto-depoimento h1, p{
+    font-family: 'Roboto', sans-serif;;
+    color: #ff7e1d;
+}
+
+.texto-depoimento h1{
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.texto-depoimento p{
+    margin-top: 10px;
+    font-size: 20px;
+}
+
+.depoimento-form{
+    margin: 30px 0 50px 0;
+    display: flex;
+    
+}
+
+.asp img{
+    width: 25px;
+}
+
+.asp-right img{
+    margin-top: 150px;
+}
+
