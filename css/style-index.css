@@ -47,3 +47,20 @@ body{
     background: url(../images/banner-bg.png);
     background-size: 100%;
 }
+
+
+.curiosidade h1, p{
+    color: #fff;
+    font-family: 'Roboto', sans-serif;
+}
+
+.curiosidade div h1{
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.curiosidade div p{
+    padding-top: 20px;
+    font-size: 20px;
+    text-align: justify;
+}
